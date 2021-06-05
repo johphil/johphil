@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johphil.
 - 👀 I’m interested in C# .NET.
-- 🌱 I’m currently learning the ML.NET.
+- 🌱 I’m currently learning ML.NET.
 - 📫 send me an email at johphilencarnacion@gmail.com if you need something.
 
 <!---
